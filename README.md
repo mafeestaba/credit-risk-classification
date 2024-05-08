@@ -12,8 +12,8 @@
 
 ## Results
 * Machine Learning Model 1:
-    *Accuracy is 99% in this model.
-    *Precision is 100% for low risk loans and 85% for high risk loans.
+    * Accuracy is 99% in this model.
+    * Precision is 100% for low risk loans and 85% for high risk loans.
     * Recall is 99% accurate for low risk vs 91% for high risk. This show us the percentage of times the loan was classified correctly.
 
 ## Summary
